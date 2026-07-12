@@ -1,11 +1,9 @@
-// Firebase Console で取得した設定に置き換えてください。
-// 使い方は README.md に書いてあります。
 window.FIREBASE_CONFIG = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT-default-rtdb.firebaseio.com",
-  projectId: "YOUR_PROJECT",
-  storageBucket: "YOUR_PROJECT.firebasestorage.app",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyA6ZxYvoLJBLLY2NwN5s4qnwbPCiKQmsNs",
+  authDomain: "oekaki-culb.firebaseapp.com",
+  databaseURL: "https://oekaki-culb-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "oekaki-culb",
+  storageBucket: "oekaki-culb.firebasestorage.app",
+  messagingSenderId: "1094088069262",
+  appId: "1:1094088069262:web:aeead4c6fe6c05f7b2b9df"
 };
